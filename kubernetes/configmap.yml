@@ -1,4 +1,4 @@
-apiVersion: apps/v1
+apiVersion: rooms/v1
 kind: ConfigMap
 metadata:
   name: apiurl
