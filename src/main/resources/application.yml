@@ -62,3 +62,6 @@ spring:
         event-out:
           destination: accommodation
           contentType: application/json
+api:
+  room:
+    url: cofigurl
