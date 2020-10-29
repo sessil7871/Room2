@@ -1,0 +1,7 @@
+apiVersion: apps/v1
+kind: ConfigMap
+metadata:
+  name: apiurl
+data:
+  url: http://deploy:8080
+  fluentd-server-ip: 10.xxx.xxx.xxx
